@@ -1,0 +1,9 @@
+{
+  "appId": "com.nutrii.app",
+  "appName": "nutrii",
+  "webDir": "src",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}

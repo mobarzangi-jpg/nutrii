@@ -1,0 +1,7 @@
+{
+  "name": "nutrii",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
