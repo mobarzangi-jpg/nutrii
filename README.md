@@ -88,6 +88,6 @@ Generated from web app using Capacitor.
 Every time you update files in GitHub and commit to main, the APK will rebuild automatically!
 
 ---
-*Generated with ❤️ by Web to Android Converter*  
+*Generated with ❤️2u by Web to Android Converter*  
 *Final Fixed Version - March 2025*  
 *Workflow auto-triggers on upload - no manual trigger needed!*
