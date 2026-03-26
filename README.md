@@ -2,7 +2,7 @@
 
 Generated from web app using Capacitor.
 
-## 🚀 QUICK START GUIDE (Follow Exactly!)
+## 🚀 QUICK START     GUIDE (Follow Exactly!)
 
 ### Step 1: Create Repository (CRITICAL - Do This Right!)
 1. Go to https://github.com/new
